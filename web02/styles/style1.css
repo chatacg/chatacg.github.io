@@ -1,0 +1,84 @@
+html{
+   font-size:10px;
+}
+body{
+      width:650px;
+      margin:0px auto;
+      background-image:url(http://pic1.win4000.com/wallpaper/e/598abe2441bb0.jpg);
+      background-position: -25rem;
+      font-family:Helvetica,Arial;
+      background-repeat:no-repeat;
+}
+
+h1{
+      color:#f9f8ed;
+      font-size:4.0rem;
+      text-shadow: -1px -1px 1px #c4e3cb,
+                   -1px 1px 1px #c4e3cb;
+      text-align:center;
+      letter-spacing: 2.5rem;
+     
+    }
+h2{
+      color:#FFE35E;
+      font-size:2.5rem;
+      
+}
+h2,li{
+  padding-left: 5rem;
+}
+
+ul li{
+  list-style-position: inside;
+}
+
+
+.wenzi1{
+  color:white;
+  font-size:2.0rem;
+  font-style:normol;
+  padding-left: 5rem;
+  
+}
+
+.wenzi2{
+  color:white;
+  font-size:2.0rem;
+  font-style:italic;
+  text-decoration:underline;
+  padding-left: 5rem;
+}
+
+header{
+  border-bottom:2px solid white;
+}
+section{
+  border-bottom:1px solid #c4e3cb;
+  padding：1rem;
+}
+footer{
+  color:white;
+  text-align:center;
+}
+ul,li{
+  color:#c4e3cb;
+  font-size:1.8rem;
+}
+a{
+  color:#00454a;
+  
+  text-decoration:none;
+}
+a:hover{
+  color:#c4e3cb;
+  text-decoration:underline overline;
+  
+  
+}
+a:visited{
+  color:#fff1bc;
+  background-color:#6a9c78;
+  text-decoration:underline;
+}
+
+
